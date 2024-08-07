@@ -1,0 +1,10 @@
+.footerChild{
+    display: flex;
+    justify-content: space-between;
+}
+.footerChild >button{
+    cursor: pointer;
+}
+.footerChild>span{
+    color: rgb(105, 105, 105);
+}
